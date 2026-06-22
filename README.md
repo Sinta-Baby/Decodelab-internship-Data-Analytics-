@@ -1,50 +1,37 @@
-# Project 1: Data Cleaning & Preparation
+# DecodeLab Internship – Data Analytics
 
-## Overview
+This repository contains all projects completed during the DecodeLab Data Analytics Internship Program.
 
-This project focuses on cleaning and preparing a raw e-commerce dataset. The objective is to improve data quality by handling missing values, checking duplicate records, and standardizing data formats.
+## Projects
 
-## Dataset Information
+### Project 1 – Data Cleaning & Preparation
 
-* Total Records: 1200
-* Total Columns: 14
-* Dataset Type: E-Commerce Transactions
+* Missing Value Handling
+* Duplicate Detection
+* Data Formatting
+* Data Validation
 
-## Tasks Performed
+### Project 2
 
-### 1. Missing Value Handling
+Coming Soon
 
-* Identified missing values in the CouponCode column.
-* Replaced missing values with "No Coupon".
+### Project 3
 
-### 2. Duplicate Check
+Coming Soon
 
-* Checked for duplicate rows.
-* Verified that OrderID values are unique.
+### Project 4
 
-### 3. Data Formatting
+Coming Soon
 
-* Standardized date format.
-* Removed unnecessary spaces from text columns.
-* Validated numeric columns.
-
-### 4. Data Validation
-
-* Confirmed zero missing values.
-* Confirmed zero duplicate rows.
-* Confirmed zero duplicate Order IDs.
-
-## Technologies Used
+## Tools Used
 
 * Python
 * Pandas
 * Jupyter Notebook
 * VS Code
+* Git & GitHub
 
-## Output
+## Author
 
-* Cleaned_Dataset_Project1.xlsx
-
-## Conclusion
-
-The dataset was successfully cleaned and prepared for further analysis. The final dataset contains no missing values, no duplicate records, and standardized formatting suitable for analytical tasks.
+Sinta Baby
+Integrated M.Sc Computer Science (Data Science)
