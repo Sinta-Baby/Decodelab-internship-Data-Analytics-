@@ -13,7 +13,17 @@ This repository contains all projects completed during the DecodeLab Data Analyt
 
 ### Project 2
 
-Coming Soon
+ Dataset Exploration
+- Statistical Analysis (Mean, Median, Count)
+- Missing Value Analysiss
+- Duplicate Record Check
+- Product Analysiss
+- Payment Method Analysis
+- Referral Source Analysis
+- Monthly Sales Trend Analysis
+- Outlier Detection using Boxplots
+- Correlation Analysis using Heatmaps
+- Business Insights and Conclusions
 
 ### Project 3
 
