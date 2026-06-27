@@ -27,7 +27,23 @@ This repository contains all projects completed during the DecodeLab Data Analyt
 
 ### Project 3
 
-Coming Soon
+## Project 3
+
+### SQL Data Analysis
+
+* SQLite Database Creation
+* Importing CSV Dataset into SQLite
+* Data Retrieval using SELECT
+* Data Filtering using WHERE
+* Data Sorting using ORDER BY
+* Data Grouping using GROUP BY
+* Aggregate Functions (COUNT, SUM, AVG)
+* Top Selling Products Analysis
+* Payment Method Analysis
+* Order Status Analysis
+* Highest Value Orders
+* Business Insights and Conclusions
+
 
 ### Project 4
 
