@@ -1,0 +1,44 @@
+# Project 3 Report
+
+## Title
+
+SQL Data Analysis on an E-Commerce Dataset
+
+## Objective
+
+The objective of this project was to perform data analysis using SQL on an e-commerce dataset. SQLite was used to create a database, import the dataset, and execute SQL queries to extract meaningful business insights.
+
+## Dataset
+
+The dataset contains 1200 e-commerce transactions with information such as Order ID, Customer ID, Product, Quantity, Payment Method, Order Status, Coupon Code, Referral Source, and Total Price.
+
+## Software Used
+
+* SQLite
+* VS Code
+* SQLite Viewer
+
+## SQL Operations Performed
+
+* Database creation
+* Data import from CSV
+* Data retrieval using SELECT
+* Data filtering using WHERE
+* Data sorting using ORDER BY
+* Data grouping using GROUP BY
+* Aggregate analysis using COUNT(), SUM(), and AVG()
+
+## Key Findings
+
+* Calculated the total number of orders.
+* Calculated the total revenue generated.
+* Determined the average order value.
+* Identified the top-selling products.
+* Analyzed customer payment preferences.
+* Compared different order statuses.
+* Identified customers who used coupon codes.
+* Listed the highest-value orders.
+
+## Conclusion
+
+The project successfully demonstrated how SQL can be used for data storage, retrieval, and business analysis. The queries generated meaningful insights that can support decision-making in an e-commerce environment.

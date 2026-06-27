@@ -1,0 +1,79 @@
+# SQL Data Analysis Results
+
+## Project: SQL Data Analysis on E-Commerce Dataset
+
+### 1. Total Orders
+
+Result:1200
+
+Observation:
+The dataset contains a total of 1200 customer orders.
+
+---
+
+### 2. Total Revenue
+
+Result:₹1,264,761.96
+
+Observation:
+The total revenue generated from all customer orders is ₹1,264,761.96.
+
+---
+
+### 3. Average Order Value
+
+Result:₹1,053.97
+
+Observation:
+The average value of each customer order is ₹1,053.97.
+
+---
+
+### 4. Top 5 Selling Products
+
+| Product | Number of Orders |
+| ------- | ---------------: |
+| Printer |              181 |
+| Tablet  |              179 |
+| Chair   |              178 |
+| Laptop  |              173 |
+| Desk    |              170 |
+
+Observation:
+Printers were the most frequently ordered product, followed by Tablets, Chairs, Laptops, and Desks.
+
+---
+
+### 5. Payment Method Summary
+
+| Payment Method | Total Orders |
+| -------------- | -----------: |
+| Online         |          258 |
+| Cash           |          246 |
+| Credit Card    |          234 |
+| Debit Card     |          232 |
+| Gift Card      |          230 |
+
+Observation:
+Online payment was the most preferred payment method, while Gift Card was the least used among the available options.
+
+---
+
+### 6. Order Status Summary
+
+| Order Status | Total Orders |
+| ------------ | -----------: |
+| Cancelled    |          250 |
+| Returned     |          247 |
+| Pending      |          237 |
+| Shipped      |          235 |
+| Delivered    |          231 |
+
+Observation:
+The dataset contains orders across five different statuses, with **Cancelled** being the most common status in this dataset.
+
+---
+
+## Conclusion
+
+This project successfully demonstrated SQL-based data analysis on an e-commerce dataset. A SQLite database was created, the dataset was imported, and SQL queries were executed to retrieve and analyze business information. Operations such as **SELECT**, **WHERE**, **ORDER BY**, **GROUP BY**, **COUNT()**, **SUM()**, **AVG()**, and **LIMIT** were used to extract valuable insights, including total orders, revenue, average order value, product performance, payment methods, and order status distribution. The project strengthened practical SQL querying skills and showed how SQL can be used to support business decision-making through data analysis.
