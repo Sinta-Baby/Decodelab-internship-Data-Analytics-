@@ -27,7 +27,7 @@ This repository contains all projects completed during the DecodeLab Data Analyt
 
 ### Project 3
 
-## Project 3
+
 
 ### SQL Data Analysis
 
