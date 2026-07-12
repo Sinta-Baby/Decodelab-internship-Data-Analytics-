@@ -51,13 +51,21 @@ This repository contains all projects completed during the DecodeLab Data Analyt
 ### Data Visualization & Storytelling
 
 • Data Loading and Exploration
+
 • Data Preprocessing
+
 • Revenue by Product Visualization
+
 • Monthly Revenue Trend Analysis
+
 • Payment Method Distribution
+
 • Order Status Distribution
+
 • Referral Source Analysis
+
 • Correlation Heatmap
+
 • Business Insights and Conclusions
 
 ## Tools Used
